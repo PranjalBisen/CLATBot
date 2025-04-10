@@ -107,6 +107,6 @@ Use the GPT model as a fallback or enhancement for open-ended questions.
 ## 📬 Contact
 
 **Name**: Pranjal D. Bisen  
-**Email**: your.email@example.com
+**Email**: pranjaldbisen@gmail.com
 
 ---
