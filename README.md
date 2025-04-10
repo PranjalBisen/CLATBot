@@ -4,18 +4,6 @@
 
 ---
 
-## 📌 Table of Contents
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Setup Instructions](#setup-instructions)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Bonus: Scaling to a GPT-Based Model](#bonus-scaling-to-a-gpt-based-model)  
-- [Dependencies](#dependencies)  
-- [Contact](#contact)  
-
----
-
 ## 🚀 Project Overview
 
 CLATGuru Chatbot is a lightweight tool that:
@@ -47,7 +35,7 @@ CLATGuru Chatbot is a lightweight tool that:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your_username/CLATBot.git
-cd CLATGuruChatbot
+cd CLATBot
 ```
 
 ### 2. Install Dependencies
